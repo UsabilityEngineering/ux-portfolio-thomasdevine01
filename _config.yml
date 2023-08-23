@@ -1,7 +1,8 @@
 title: Thomas Devine's Portfolio
-description: UI/UX Portfolio
+description: devinesworks.dev
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
 - jekyll-remote-theme 
 - jekyll-include-cache
+

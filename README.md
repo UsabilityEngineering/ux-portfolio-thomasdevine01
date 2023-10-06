@@ -7,8 +7,11 @@ This site is a portfolio to showcase the products that I will complete over the 
 
 ## UX Team Project
 
-Coming soon.
+- Indie Link
 
+    - [Indie-Link's UI/UX Design](https://github.com/ChicoState/UX-Indie-Link)
+    - [Indie-Link's Code](https://github.com/ChicoState/Indie-Link)
+    
 ## UX Journal
 
 [Read about my experience with Bash](j01/)

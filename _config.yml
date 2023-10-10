@@ -2,9 +2,9 @@ title: Thomas Devine's Portfolio
 description: devinesworks.dev
 
 theme: just-the-docs
-color_scheme: dark
+color_scheme: "dark"
 
-remote-theme: 
+remote-theme: just-the-docs/just-the-docs
 
 url: https://devinesworks.dev
 

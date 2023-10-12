@@ -9,6 +9,3 @@ url: https://devinesworks.dev
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://devinesworks.dev
 
-plugins:
-- jekyll-include-cache
-

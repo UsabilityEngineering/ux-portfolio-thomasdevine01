@@ -1,11 +1,8 @@
-title: Thomas Devine's Portfolio
-description: devinesworks.dev
-
+title: "Thomas Devine's Portfolio"
 remote-theme: just-the-docs/just-the-docs
+description: devinesworks.dev
 color_scheme: "dark"
-
 url: https://devinesworks.dev
-
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://devinesworks.dev
 

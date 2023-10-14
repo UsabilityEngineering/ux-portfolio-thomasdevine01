@@ -16,4 +16,4 @@ This site is a portfolio to showcase the products that I will complete over the 
     
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with Hulu](j01/)

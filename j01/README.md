@@ -1,1 +1,3 @@
+
 # First Journal Entry...
+<img src="assets/example.gif">
